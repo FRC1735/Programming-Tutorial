@@ -19,7 +19,7 @@ public class AbsoluteValue {
 	    // Rather than force the rather clunky process for using command-line inputs to the program, let's instead
 		// let the user type the input as part of the program execution.  It's a lot easier to program and to run this way!
 		// Don't worry about this syntax/command, as FRC robots never take human input this way; it's just for easier Java programming...
-		System.out.println("Enter a number.  I will tell you its absolute value:");
+		System.out.println("Enter an integer number.  I will tell you its absolute value:");
 		int inputValue; // Define our input as being an integer
 		Scanner scanner = new Scanner(System.in); // This is the special code that says "I want to eventually read some user input from the console window"
 		String input = scanner.nextLine(); // This is the special code that waits for the user to type something into the console and hit enter.
