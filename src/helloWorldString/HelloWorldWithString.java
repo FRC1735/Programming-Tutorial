@@ -16,7 +16,7 @@ public class HelloWorldWithString {
 		// Sample string variable
 		String sample = "Dog";  // You'll see a marker on the left-hand side saying that this variable is unused.  That's ok.  It's intentional.
 
-		// To do:  Define a string y that contains the word "Hello"
+		// To do:  Define a string x that contains the word "Hello"
 		
 		// To do:  Define a string y that contains the word "World"
 		

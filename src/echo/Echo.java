@@ -39,7 +39,9 @@ public class Echo {
 		}
 			
 		// To do:  Since we never move to a new line, print one here at the very end just to clean things up.
-		// you can simply do a println of an empty string "" to do this.  It won't print anything, and then will move to the next line.
+		// You can simply do a println of an empty string "" to do this.  It won't print anything, and then will move to the next line.
+		// or, if you specify nothing at all inside the parentheses, it will assume an empty string.
+		// So, both println("") and println() are equivalent.
 		
 
 	}
