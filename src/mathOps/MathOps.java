@@ -50,6 +50,7 @@ public class MathOps {
 		//        (you could do this by changing the program and re-running, or by copying/modifying the line and printing it multiple times 
 		//        and showing the results of each one all in one program...)
 
-	
+		scanner.close(); // This tells the program that we're done using the console scanner and it can be turned off.
+
 	}
 }
